@@ -1,6 +1,7 @@
 {
   "name": "audio-drop",
   "version": "0.1.0",
+  "description": "A drag and drop to play audio player with visualizer audio wavefront",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
